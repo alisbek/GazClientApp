@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="b5a8e90a-631d-4436-b037-5cfa6718505b" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://212.112.97.194:4447/GazDataService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="GazDataService.xsd" MetadataType="Schema" ID="c0972deb-0b13-498e-8ff7-f0848e237610" SourceId="1" SourceUrl="http://212.112.97.194:4447/GazDataService.svc?xsd=xsd0" />
+    <MetadataFile FileName="GazDataService1.xsd" MetadataType="Schema" ID="d021c14d-a813-43f8-b363-d1259b82176b" SourceId="1" SourceUrl="http://212.112.97.194:4447/GazDataService.svc?xsd=xsd1" />
+    <MetadataFile FileName="GazDataService2.xsd" MetadataType="Schema" ID="6041db64-5d21-4ee4-a571-6a410ffa677d" SourceId="1" SourceUrl="http://212.112.97.194:4447/GazDataService.svc?xsd=xsd2" />
+    <MetadataFile FileName="GazDataService3.xsd" MetadataType="Schema" ID="d7d1d445-c939-4d2d-ad49-34adb6267f32" SourceId="1" SourceUrl="http://212.112.97.194:4447/GazDataService.svc?xsd=xsd3" />
+    <MetadataFile FileName="GazDataService.wsdl" MetadataType="Wsdl" ID="eb828227-20a2-43fc-b004-98801648c64f" SourceId="1" SourceUrl="http://212.112.97.194:4447/GazDataService.svc?wsdl=wsdl0" />
+    <MetadataFile FileName="GazDataService1.wsdl" MetadataType="Wsdl" ID="480f2298-6961-4882-9641-a9dba873c6b4" SourceId="1" SourceUrl="http://212.112.97.194:4447/GazDataService.svc?wsdl" />
+    <MetadataFile FileName="GazDataService.disco" MetadataType="Disco" ID="fde92e6c-88fb-4584-9c5b-75c150839851" SourceId="1" SourceUrl="http://212.112.97.194:4447/GazDataService.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

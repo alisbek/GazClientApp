@@ -1,0 +1,17 @@
+C:\Users\kutmanov\documents\visual studio 2010\Projects\GazClientApp\GazClientApp\bin\Debug\GazClientApp.exe.config
+C:\Users\kutmanov\documents\visual studio 2010\Projects\GazClientApp\GazClientApp\bin\Debug\GazClientApp.exe
+C:\Users\kutmanov\documents\visual studio 2010\Projects\GazClientApp\GazClientApp\bin\Debug\GazClientApp.pdb
+C:\Users\kutmanov\documents\visual studio 2010\Projects\GazClientApp\GazClientApp\obj\x86\Debug\GazClientApp.Form1.resources
+C:\Users\kutmanov\documents\visual studio 2010\Projects\GazClientApp\GazClientApp\obj\x86\Debug\GazClientApp.Properties.Resources.resources
+C:\Users\kutmanov\documents\visual studio 2010\Projects\GazClientApp\GazClientApp\obj\x86\Debug\GazClientApp.csproj.GenerateResource.Cache
+C:\Users\kutmanov\documents\visual studio 2010\Projects\GazClientApp\GazClientApp\obj\x86\Debug\GazClientApp.exe
+C:\Users\kutmanov\documents\visual studio 2010\Projects\GazClientApp\GazClientApp\obj\x86\Debug\GazClientApp.pdb
+H:\Projects\GazClientApp\GazClientApp\bin\Debug\GazClientApp.exe.config
+H:\Projects\GazClientApp\GazClientApp\bin\Debug\GazClientApp.exe
+H:\Projects\GazClientApp\GazClientApp\bin\Debug\GazClientApp.pdb
+H:\Projects\GazClientApp\GazClientApp\obj\x86\Debug\GazClientApp.MainFrm.resources
+H:\Projects\GazClientApp\GazClientApp\obj\x86\Debug\GazClientApp.Properties.Resources.resources
+H:\Projects\GazClientApp\GazClientApp\obj\x86\Debug\GazClientApp.csproj.GenerateResource.cache
+H:\Projects\GazClientApp\GazClientApp\obj\x86\Debug\GazClientApp.csproj.CoreCompileInputs.cache
+H:\Projects\GazClientApp\GazClientApp\obj\x86\Debug\GazClientApp.exe
+H:\Projects\GazClientApp\GazClientApp\obj\x86\Debug\GazClientApp.pdb

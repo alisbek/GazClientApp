@@ -1,0 +1,2 @@
+# GazClientApp
+ Gas counter client

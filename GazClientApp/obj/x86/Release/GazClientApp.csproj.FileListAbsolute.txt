@@ -1,0 +1,19 @@
+C:\Users\kutmanov\documents\visual studio 2010\Projects\GazClientApp\GazClientApp\bin\Release\GazClientApp.exe.config
+C:\Users\kutmanov\documents\visual studio 2010\Projects\GazClientApp\GazClientApp\bin\Release\GazClientApp.exe
+C:\Users\kutmanov\documents\visual studio 2010\Projects\GazClientApp\GazClientApp\bin\Release\GazClientApp.pdb
+C:\Users\kutmanov\documents\visual studio 2010\Projects\GazClientApp\GazClientApp\obj\x86\Release\GazClientApp.Properties.Resources.resources
+C:\Users\kutmanov\documents\visual studio 2010\Projects\GazClientApp\GazClientApp\obj\x86\Release\GazClientApp.csproj.GenerateResource.Cache
+C:\Users\kutmanov\documents\visual studio 2010\Projects\GazClientApp\GazClientApp\obj\x86\Release\GazClientApp.exe
+C:\Users\kutmanov\documents\visual studio 2010\Projects\GazClientApp\GazClientApp\obj\x86\Release\GazClientApp.pdb
+C:\Users\kutmanov\documents\visual studio 2010\Projects\GazClientApp\GazClientApp\obj\x86\Release\GazClientApp.csprojResolveAssemblyReference.cache
+C:\Users\kutmanov\documents\visual studio 2010\Projects\GazClientApp\GazClientApp\obj\x86\Release\GazClientApp.MainFrm.resources
+H:\Projects\GazClientApp\GazClientApp\bin\Release\GazClientApp.exe.config
+H:\Projects\GazClientApp\GazClientApp\bin\Release\GazClientApp.exe
+H:\Projects\GazClientApp\GazClientApp\bin\Release\GazClientApp.pdb
+H:\Projects\GazClientApp\GazClientApp\obj\x86\Release\GazClientApp.csproj.AssemblyReference.cache
+H:\Projects\GazClientApp\GazClientApp\obj\x86\Release\GazClientApp.MainFrm.resources
+H:\Projects\GazClientApp\GazClientApp\obj\x86\Release\GazClientApp.Properties.Resources.resources
+H:\Projects\GazClientApp\GazClientApp\obj\x86\Release\GazClientApp.csproj.GenerateResource.cache
+H:\Projects\GazClientApp\GazClientApp\obj\x86\Release\GazClientApp.csproj.CoreCompileInputs.cache
+H:\Projects\GazClientApp\GazClientApp\obj\x86\Release\GazClientApp.exe
+H:\Projects\GazClientApp\GazClientApp\obj\x86\Release\GazClientApp.pdb

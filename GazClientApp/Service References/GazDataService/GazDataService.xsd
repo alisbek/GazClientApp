@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://GazDataServices" elementFormDefault="qualified" targetNamespace="http://GazDataServices" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://212.112.97.194:4447/GazDataService.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/ModelLayer.Containers" />
+  <xs:element name="GetData">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="id" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetDataResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="GetDataResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetBill">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="accountNo" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="consumValue" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetBillResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/ModelLayer.Containers" minOccurs="0" name="GetBillResult" nillable="true" type="q1:BillItemClass" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
